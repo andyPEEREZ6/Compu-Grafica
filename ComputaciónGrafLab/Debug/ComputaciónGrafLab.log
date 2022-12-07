@@ -1,14 +1,15 @@
 ﻿  Final.cpp
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(643,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(644,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(648,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(649,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(651,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(652,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\ComputaciónGrafLab\Final.cpp(660,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(671,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(672,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(676,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(677,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(679,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(680,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\ComputaciónGrafLab\Final.cpp(688,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  glad.c
 glfw3.lib(context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(init.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(init.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(input.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
@@ -24,4 +25,4 @@ glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3
 glfw3.lib(wgl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(wgl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(egl_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(egl_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
 glfw3.lib(osmesa_context.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(osmesa_context.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
-  ComputaciónGrafLab.vcxproj -> C:\Users\Felix\OneDrive\Documentos\GitHub\ProyectoFinalLab\Debug\ComputaciónGrafLab.exe
+  ComputaciónGrafLab.vcxproj -> C:\Users\Felix\OneDrive\Documentos\GitHub\Compu-Grafica\Debug\ComputaciónGrafLab.exe

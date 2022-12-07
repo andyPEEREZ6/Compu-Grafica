@@ -280,6 +280,13 @@ int main()
 
 	Model Asador("resources/Casa/Asador/Asador.obj");
 
+	//Ave
+	Model Cuerpo("resources/Ave/Ave/Cuerpo.obj");
+	Model Ala1("resources/Ave/Ave/Ala_1.obj");
+	Model Ala2("resources/Ave/Ave/Ala_2.obj");
+	Model Ala3("resources/Ave/Ave/Ala_3.obj");
+	Model Ala4("resources/Ave/Ave/Ala_4.obj");
+
 	ModelAnim animacionPersonaje("resources/objects/Personaje1/PersonajeBrazo.dae");
 	animacionPersonaje.initShaders(animShader.ID);
 
@@ -431,6 +438,27 @@ int main()
 		model = glm::scale(model, glm::vec3(5.0f));
 		staticShader.setMat4("model", model);
 		Asador.Draw(staticShader);
+
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 1.75f, -50.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		Ala1.Draw(staticShader);
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 1.75f, -50.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		Ala2.Draw(staticShader);
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 1.75f, -50.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		Ala3.Draw(staticShader);
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 1.75f, -50.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		Ala4.Draw(staticShader);
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 1.75f, -50.0f));
+		model = glm::scale(model, glm::vec3(5.0f));
+		staticShader.setMat4("model", model);
+		Cuerpo.Draw(staticShader);
 		// -------------------------------------------------------------------------------------------------------------------------
 		// Carro
 		// -------------------------------------------------------------------------------------------------------------------------
